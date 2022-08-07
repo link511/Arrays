@@ -67,12 +67,12 @@ append5(x);
 console.log(x);*/
 
 
-/* var x = [1, 2, 3, 4]
+var x = [1, 2, 3, 4]
 /*var y = x.slice()*/
 var y = [...x] // copy x to a new array / copier clone
 y[3] = "heelo"
 console.log(x)
-console.log(y) */
+console.log(y)
 
 
 
